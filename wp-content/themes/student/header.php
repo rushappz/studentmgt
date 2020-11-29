@@ -33,18 +33,12 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Products
+            <a class="nav-link" href="#">Student
               <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Destinations</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Resources</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Our Story</a>
+            <a class="nav-link" href="#">New User</a>
           </li>
         </ul>
       </div>
