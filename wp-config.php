@@ -77,7 +77,9 @@ $table_prefix = 'st_';
  *
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', true );
+
+define('STDB_TABLE_NAME_POSTFIX', 'studentmgt');
 
 /* That's all, stop editing! Happy publishing. */
 
