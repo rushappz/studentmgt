@@ -22,7 +22,7 @@ if (!$user_ID) {
 								}
 								?>
 								<div class="logimg-tilt" data-tilt>
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/img/login-form-img.jpg" class="img-fluid">
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/img/login-form-img-3.png" class="img-fluid">
 								</div>
 							</div>
 						</div>
