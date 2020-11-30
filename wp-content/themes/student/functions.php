@@ -22,7 +22,7 @@ function redirect_to_custom_login_page()
 
 add_action("wp_logout", "redirect_to_custom_login_page");
 
-add_action("init", "fn_redirect_wp_admin");
+//add_action("init", "fn_redirect_wp_admin");
 
 function fn_redirect_wp_admin()
 {

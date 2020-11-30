@@ -459,7 +459,12 @@ iframe {
 }
 
 .icon-card:hover {
-    box-shadow: 0px 0px 5px rgb(0 108 122 / 39%);
+    background: linear-gradient(to left, #9cc1f8c2 50%, #ffffff 50%);
+}
+
+#student-form-toggle:hover,
+#logout-button:hover {
+    text-decoration: none !important;
 }
 
 .icon-card i {
@@ -470,6 +475,7 @@ iframe {
 
 .icon-card p {
     font-size: 16px;
+    margin-bottom: 0;
 }
 
 
